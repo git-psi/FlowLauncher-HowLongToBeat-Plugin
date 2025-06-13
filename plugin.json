@@ -1,0 +1,12 @@
+{
+    "ID": "2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
+    "ActionKeyword": "hltb",
+    "Name": "How Long To Beat",
+    "Description": "Search a game's playtime on How Long To Beat",
+    "Author": "Psi",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/git-psi/FlowLauncher-HowLongToBeat-Plugin",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "main.py"
+}
