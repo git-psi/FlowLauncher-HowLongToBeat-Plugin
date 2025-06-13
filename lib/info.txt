@@ -1,0 +1,5 @@
+This folder contains all the Python dependencies required for the plugin to work, not here but in the .zip, in the release section.
+Normally, you do not need to modify anything here.
+
+If you want to update or add dependencies, use:
+python -m pip install --target=lib -r requirements.txt --no-user
